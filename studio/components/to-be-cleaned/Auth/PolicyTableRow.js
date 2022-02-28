@@ -111,7 +111,7 @@ const PolicyTableRow = ({
     >
       {table.policies.length === 0 && (
         <div className="p-4 px-6">
-          <p className="text-xs text-scale-900">No policies created yet</p>
+          <p className="text-sm text-scale-900">No policies created yet</p>
         </div>
       )}
 
